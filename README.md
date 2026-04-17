@@ -2,7 +2,7 @@
 
 ---
 
-### description
+### Description
 
 Computer Science student focused on building efficient backend systems and real-world applications.  
 Experienced with FastAPI, React, Next.js, and PostgreSQL, with a strong interest in clean architecture and performance.  
